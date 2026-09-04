@@ -7,5 +7,13 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "drizzle-orm": "^0.45.2",
+    "mysql2": "^3.24.3",
+    "pg": "^8.23.0"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.10"
+  }
 }
